@@ -1,2 +1,3 @@
 Coucou c'est Alexis, membre 3 du goupe 2.
 coucou c'est Alexandra, membre 2 du groupe 2.
+C'est cette phrase qui sera affiché à la fin sorry
